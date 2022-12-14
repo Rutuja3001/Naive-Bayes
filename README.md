@@ -13,9 +13,7 @@ education	-- Education of an individuals
 
 maritalstatus -- Marital status of an individulas	
 
-occupation	 -- occupation of an individuals
-
-relationship -- 	
+occupation	 -- occupation of an individuals 	
 
 race --  Race of an Individual
 
